@@ -74,10 +74,6 @@ CSSLint.addRule({
                 
                 "-moz-box-sizing" : "box-sizing",
                 "-webkit-box-sizing" : "box-sizing",
-                
-                "-moz-user-select" : "user-select",
-                "-khtml-user-select" : "user-select",
-                "-webkit-user-select" : "user-select"                
             };
 
         //event handler for beginning of rules
