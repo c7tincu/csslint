@@ -73,7 +73,7 @@ CSSLint.addRule({
                 "-ms-transform-origin" : "transform-origin",
                 
                 "-moz-box-sizing" : "box-sizing",
-                "-webkit-box-sizing" : "box-sizing",
+                "-webkit-box-sizing" : "box-sizing"
             };
 
         //event handler for beginning of rules
